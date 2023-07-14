@@ -11,3 +11,5 @@ function whoIsPaying(name){
     name.length > 2 ? (arr.push(name), arr.push(name.slice(0, 2))) : arr.push(name);
     return arr;
 }
+
+let token = "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"
